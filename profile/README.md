@@ -9,5 +9,3 @@ Team:
 - Edison Kaulfuss
 - Luke Wainwirght
 - William Henderson
-
-- [Design Documentaion](assets/Rapid Reservation.pptx)
