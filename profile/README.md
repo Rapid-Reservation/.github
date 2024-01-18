@@ -14,6 +14,7 @@ Team:
 
 ## Documentation
 
+- [Rapid Reservation Scrum Board](https://github.com/orgs/Rapid-Reservation/projects/1/views/1)
 - [Rapid Reservation Doc Site](https://rapid-reservation.github.io/rapid-reservation-docs/)
 
 ## Repos
