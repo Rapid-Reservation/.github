@@ -9,3 +9,5 @@ Team:
 - Edison Kaulfuss
 - Luke Wainwirght
 - William Henderson
+
+[Rapid Reservation Doc Site](https://rapid-reservation.github.io/rapid-reservation-docs/)
