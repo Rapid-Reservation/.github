@@ -6,7 +6,7 @@ The goal of this project is to develop a web app quickly, efficiently and to mee
 
 Team:
 
-- Anthony Epps: PM, Front-End, Flex
+- Anthony Epps: Project Manager, Full Stack
 - Dakotah Campbell: Database
 - Edison Kaulfuss: Back-End
 - Luke Wainwright: Back-End
